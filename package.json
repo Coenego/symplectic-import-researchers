@@ -1,0 +1,23 @@
+{
+  "name": "symplectic-import-researchers",
+  "version": "0.1.0",
+  "description": "A Symplectic researchers import script",
+  "main": "import.js",
+  "homepage": "https://github.com/Coenego/symplectic-import-researchers",
+  "author": "Mathieu Decoene <md623@cam.ac.uk>",
+  "keywords": [
+    "import",
+    "symplectic",
+    "researchers"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coenego/symplectic-import-researchers.git"
+  },
+  "dependencies": {
+    "request": "latest",
+    "underscore": "latest",
+    "xml2js": "latest"
+  }
+}
